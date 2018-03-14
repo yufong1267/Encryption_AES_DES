@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\HW!\HW!\bin\Debug\HW!.exe.config
+C:\Users\user\Desktop\HW!\HW!\bin\Debug\HW!.exe
+C:\Users\user\Desktop\HW!\HW!\bin\Debug\HW!.pdb
+C:\Users\user\Desktop\HW!\HW!\obj\Debug\HW!.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HW!\HW!\obj\Debug\HW_.Form1.resources
+C:\Users\user\Desktop\HW!\HW!\obj\Debug\HW_.Properties.Resources.resources
+C:\Users\user\Desktop\HW!\HW!\obj\Debug\HW!.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\HW!\HW!\obj\Debug\HW!.exe
+C:\Users\user\Desktop\HW!\HW!\obj\Debug\HW!.pdb
